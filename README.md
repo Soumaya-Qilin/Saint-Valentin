@@ -5,7 +5,8 @@
 <p>Le jour de la Saint-Valentin, le 14 février, est considéré dans de nombreux pays comme la fête des amoureux. Les couples en profitent pour s'échanger des mots doux et des cadeaux comme des roses rouges qui sont l’emblème de la passion, cartes, chocolats, etc.</p>
 
 ## Historique
-![image_saint_valentin](img/saint-valentin_histoire.jpg)
+
+![image_saint_valentin2](img/saint-valentin_histoire.jpg)
 <p>Le 14 février (a.d. XVI Kalendas Martias) correspond, dans la religion romaine, aux Lupercales, fêtes faunesques se déroulant du 13 au 15 février.
 
 L'origine réelle de cette fête est attestée au xive siècle dans la Grande-Bretagne encore catholique où le jour de la Saint-Valentin du 14 février était fêté comme une fête des amoureux car l'on pensait que les oiseaux choisissaient ce jour pour s'apparier1. Restée vivace dans le monde anglo-saxon, comme Halloween, cette fête s'est ensuite répandue à travers le continent européen à une époque récente.
@@ -21,6 +22,8 @@ En France, le dessinateur Raymond Peynet est l'auteur d'illustrations emblémati
 
 À Strasbourg, un évènement lui est dédié : Strasbourg mon amour, ainsi qu'à Nancy : Nancy, l'amour au cœur.</p>
 ## La Saint-Valentin dans le monde
+
+![image_saint_valentin3](img/saint-valentin_monde.jpg)
 
 <p>En France, les fleuristes font en ce jour de la Saint-Valentin le chiffre d'affaires qu'ils feraient habituellement en une semaine. La rose représente 80 % des ventes23.
 
